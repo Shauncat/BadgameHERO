@@ -14,8 +14,8 @@
 |**Damage Classes:**|6-12 (10 average)|
 |**Active Points:**|75 max|
 |**Skill roll:**|8-15-|
-|**Def:**|12-25|
-|**rDef:**|6-18|
+|**Def:**|12-20|
+|**rDef:**|6-12|
 |||
 ### Offensive Rule of X
 The following should total no more than 30:
