@@ -32,4 +32,4 @@ The following should total no more than 30:
 * the Active Points divided by 5 in primarily defensive powers like Invisibility or Desolidification
 
 ### Schitcks
-A character is allowed to violate the 12DC limitations and Rule of X limitations for one power, and one power only. This power is their Schtick. It can go up to 15DC (75AP), and for the purposes of Rule of X, counts as if it were 15 AP lower. For example, Princess Melody's Blazing Power Chord (Blast 15d6) is 75 AP, but her offensive ability is balanced as if it were 60AP (a Blast 12d6).
+A character is allowed to violate the 12DC and Rule of X limitations for one power, and one power only. This power is their Schtick. It can go up to 15DC (75AP), and for the purposes of Rule of X, counts as if it were 15 AP lower. For example, Princess Melody's Blazing Power Chord (Blast 15d6) is 75 AP, but her offensive ability is balanced as if it were 60AP (a Blast 12d6).
