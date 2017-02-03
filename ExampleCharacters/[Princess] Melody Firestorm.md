@@ -362,7 +362,7 @@
 			<table border=0 cellpadding=0 cellspacing=5 width="100%">
 				<tr>
 					<td><b>350+</b></td>
-					<td width="100%"><b>Disadvantages</b></td>
+					<td><b>Disadvantages</b></td>
 				</tr>
 	
 				<tr>
