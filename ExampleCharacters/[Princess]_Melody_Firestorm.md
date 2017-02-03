@@ -60,9 +60,9 @@ Example Character
 	</tr>
 	
 	<tr>
-		<td align="right" valign="top">1f&#160;&#160;</td>
-		<td>4)  <b><i>Sonic Shell: </i></b>Barrier 4 PD/4 ED, 5 BODY (up to 2m long, 2m tall, and 1/2m thick), Dismissable (27 Active Points); OIF (-1/2), Gestures (Requires both hands; -1/2)&#160;</td>
-		<td valign="top" align="right">3</td>
+		<td align="right" valign="top">2f&#160;&#160;</td>
+		<td>4)  <b><i>Sonic Shell: </i></b>Barrier 5 PD/10 ED, 3 BODY (up to 2m long, 2m tall, and 1/2m thick), Dismissable (37 Active Points); OIF (-1/2), Gestures (Requires both hands; -1/2)&#160;</td>
+		<td valign="top" align="right">4</td>
 	</tr>
 	
 	<tr>
@@ -126,7 +126,7 @@ Example Character
 	</tr>
 	
 </table>
-<b>Powers Cost:</b> 145
+<b>Powers Cost:</b> 146
 <p>
 
 
@@ -148,13 +148,18 @@ Example Character
 	</tr>
 	
 	<tr>
-		<td valign="top" align="right">1&#160;&#160;</td>
-		<td>Language:  English (basic conversation)&#160;</td>
+		<td valign="top" align="right">2&#160;&#160;</td>
+		<td>CuK: Japanese Rock Scene 11-&#160;</td>
 	</tr>
 	
 	<tr>
-		<td valign="top" align="right">3&#160;&#160;</td>
-		<td>Persuasion 15-&#160;</td>
+		<td valign="top" align="right">1&#160;&#160;</td>
+		<td>KS: Guitar 8-&#160;</td>
+	</tr>
+	
+	<tr>
+		<td valign="top" align="right">1&#160;&#160;</td>
+		<td>Language:  English (basic conversation)&#160;</td>
 	</tr>
 	
 	<tr>
@@ -164,21 +169,21 @@ Example Character
 	
 	<tr>
 		<td valign="top" align="right">3&#160;&#160;</td>
+		<td>Persuasion 15-&#160;</td>
+	</tr>
+	
+	<tr>
+		<td valign="top" align="right">5&#160;&#160;</td>
+		<td>Power:  Pyromancy 13-&#160;</td>
+	</tr>
+	
+	<tr>
+		<td valign="top" align="right">3&#160;&#160;</td>
 		<td>Streetwise 15-&#160;</td>
 	</tr>
 	
-	<tr>
-		<td valign="top" align="right">2&#160;&#160;</td>
-		<td>CuK: Japanese Rock Scene 11-&#160;</td>
-	</tr>
-	
-	<tr>
-		<td valign="top" align="right">7&#160;&#160;</td>
-		<td>Power:  Pyromancy 14-&#160;</td>
-	</tr>
-	
 </table>
-<b>Skills Cost: </b>25
+<b>Skills Cost: </b>24
 <p>
 
 
