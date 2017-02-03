@@ -1,42 +1,4 @@
 <HTML>
-<HEAD>
-<STYLE TYPE="text/css">
-BODY {
-	font-family: Times New Roman, serif;
-	font-size: 12pt;
-	color: black;
-	background-color: white;
-}
-
-TD {
-	font-size: 12pt;
-}
-
-TABLE.small {
-	font-size: 8pt;
-}
-TABLE.content {
-	font-size: 12pt;
-}
-
-TD.header {
-	font-size: 12pt;
-	font-weight: bold;
-	color: black;
-	background-color: white;
-}
-
-TD.content {
-	font-size: 12pt;
-}
-TD.small {
-	font-size: 8pt;
-}
-SPAN.small {
-	font-size: 8pt;
-}
-</STYLE>
-</HEAD>
 <BODY>
 <table border=0 cellpadding=0 cellspacing=5 width=100% style="width: 188mm;" valign="top">
 <tr><td colspan=2 align="left" valign="top"><b>Reincarnated Princess Melody Firestorm</b></td></tr>
