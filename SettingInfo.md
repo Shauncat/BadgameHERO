@@ -1,6 +1,6 @@
 # Mahou Shoujo HERO - Setting Info 
 ## Magical Girl Factions 
-### The Court of Lemuria 
+### The Court of Lemuria - Princess Reincarnates
 Before the dawn of modern civilization, two empires ruled mighty.
 
 One, the Sorcerer-Kings of Mu, used dark thaumaturgy and the blood of their slave caste to amass power. It was through their alchemical experiments the *youma*, weaponized vampires of human spiritual energy, were first brought to life. Though tainted by hubris, all of their civic works were a marvel to behold. 
@@ -16,7 +16,7 @@ In 1923, the Great Kanto Earthquake struck, and the temple was no longer sealed 
 > #### GAME MECHANICS
 Reincarnates of the Court of Lemuria typically use some sort of transformation, either Shape Shift + powers with an an Only In Alternated Identity limitation, or Multiform. Lemurite weapons are built using the Obvious Inaccessible Focus limitation on powers, and are Unbreakable (they can only be made or unmade using the long-forgotten secrets of the Lemurian artificers). 
 
-### The Arcannon Genius Girl Academy 
+### The Arcannon Genius Girl Academy - Student Mages
 In the Astral plane, a nexus was formed where beings of great cosmic power could come and trade artifacts, talk shop, and conduct other business with the mutual assurance that no one would summon a vast army of demons, unleash a reality-warping bomb, or stab them in the back with a soul-sucking dagger. As often happens with bustling trade hubs, people found themselves wanting to settle there, and start a family, even the mighty wizards, whose vows of chastity were often enough a cover for social awkwardness. Thus, the city of Arcannon was founded. 
 
 With urban families comes the desire for institutions of education. The Arcannon Genius Girl Academy was one such business to answer the call, grooming young ladies into witches, wizards,  demonologists, and mad scientists. 
@@ -28,7 +28,7 @@ Earth is one such planet. Japan has proven especially popular for Academy field 
 > #### GAME MECHANICS
 Academy students typically have the Power (Magic) and Invention (Magical Research) skills, as well as several Knowledge skills related to specific fields of magical study. Requires A Roll limitations are used strategically to save points, ideally leading to hilarious accidents that are ultimately not fatal. While they have more powers out of costume than a Lemurian reincarnate, many have elaborate transformation sequences, or claim their floppy hats as an Obvious Inaccessible Focus (durable). Gestures and Incantations feature heavily, and should be roleplayed when they do. 
 
-### Galactic Rune Police Department 
+### Galactic Rune Police Department - Spell Agents
 
 Some of the most dangerous places in the universe can be low-magic planets where the populace is blissfully unaware of the true nature of reality. They make great dens for smuggling contraband weapons and conducting space piracy, hideouts for dangerous fugitives, and suitable locations for soul harvesting operations. With the irresponsible use of time travel magic that goes on on them, they're also prone to paradox storms. To combat this, the GRPD has sent undercover agents to these worlds to keep an eye on them. 
 
@@ -37,7 +37,7 @@ These agents are specially selected from a pool of species that resemble the tee
 > ####GAME MECHANICS
 Rune Police carry standard issue gadgets as Foci, such as Rune Pistols which consume charges to unleash blasts of energy, crystal communicators that allow them to Mind Link to HQ, and Entangling grenades of expanding adhesive foam for detaining criminals. Summonable armor can be built using OIF and Extra Time (only to activate) on defenses. 
 
-### Dames of Twilight
+### Dames of Twilight - Dark Ladies
 Before the great yawning abyss of nothingness lies the last remaining vestige of reality, a galaxy known as the Twilight Void. Here, a race of demons, outcast by territorial feuds of the Great Demon Lords, and the crusades of the astral wizards, settled.  Through the vicious cunning and regal grace of their ruler, Queen Carob, their Imperium flourished and the habitable worlds of the Twilight Void were brought to heel. 
 
 Though relatively weak compared to her cosmos-shaping Demon Lord contemporaries, Queen Carob has a gift that greatly aids her colonial efforts, the ability to "corrupt" (in the terms of other cultures) or "knighting" (in their own words) any sentient creature with some inborn talent for magic into a demon like themselves. Through this power, she created the various orders and mystery cults than enforce their will and expand the Imperium across the multiverse; such as the Portal Mages, the Quaestors, the Phantasmal Circus, and her personal court, the Dames of Twilight. 
