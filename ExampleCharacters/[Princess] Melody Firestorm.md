@@ -236,11 +236,6 @@ Example Character
 </table>
 <p>
 <b>Disadvantage Points:</b> 40<br>
-
-<b>Base Points:</b> 350<br>
-<b>Experience Required:</b> 0<br>
-<b>Total Experience Available:</b> 0<br>
-<b>Experience Unspent:</b> 0
 </body>
 </html>
 
