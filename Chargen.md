@@ -34,3 +34,6 @@ The following should total no more than 35:
 * the character’s highest possible DCV (assuming he uses all applicable Combat Skill Levels for DCV; the GM may or may not also want to include bonuses from commonly-used Combat or Martial Maneuvers)
 * the character’s SPD
 * the Active Points divided by 5 in powers that are not defenses, but have significant defensive utility, like Invisibility or Desolidification
+
+### Skill Rolls
+15- is an *effective*, rather than *hard*, cap. This means that, at the table, you should generally not be rolling with target numbers greater than 15. However, skill levels can be bought to account for the penalties associated with mechanics such as Requires a Roll, Variable Pool Powers, Power SKills, and the EGO vs EGO roll for Summon.
