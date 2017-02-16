@@ -1,6 +1,6 @@
 Mental Combat Values are no longer used. ALl powers that use them should take the Alternate Combat Value (OCV vs DCV) advantage (since this usually doesn't change the AP or RC, you may not need to bother). The 3 free points of OMCV and DMCV can no longer be sold back.
 
-Mental Defense is still in use, and a wortwhile investment.
+Mental Defense is still in use, and a worthwhile investment.
 
 ## Points
 |||
