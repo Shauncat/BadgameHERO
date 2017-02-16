@@ -37,3 +37,5 @@ The following should total no more than 35:
 
 ### Skill Rolls
 15- is an *effective*, rather than *hard*, cap. This means that, at the table, you should generally not be rolling with target numbers greater than 15. However, skill levels can be bought to account for the penalties associated with mechanics such as Requires a Roll, Variable Pool Powers, Power SKills, and the EGO vs EGO roll for Summon.
+
+PER, Detect, and Talent rolls should also have an effective limit of 15-.
